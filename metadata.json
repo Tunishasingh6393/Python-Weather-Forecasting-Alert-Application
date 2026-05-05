@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast & Alert Application",
+  "description": "A production-grade weather monitoring and risk alert system featuring real-time data fetching, threshold-based alerting, and interactive charts for trend analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
